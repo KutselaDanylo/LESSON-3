@@ -1,0 +1,86 @@
+:root{
+ --first-color:#2F303A;
+ --second-color:#757575;
+ --third-color:#212121;
+ --fourth-color:#FFFFFF;
+ --fifth-color:#F5F4FA;
+ --hover-color:#2196F3;
+
+}
+.container{
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    border-color:var(--second-color);
+    border: solid;
+}
+section{
+    font-family: Roboto;
+}
+li{
+    list-style-type: none;
+}
+footer{
+    color: var(--first-color);
+    background-color: var(--first-color);
+}
+.section-li{
+    background-color: var(--fifth-color);
+ }
+.section-class{
+    background-color: var(--first-color);
+}
+.h-1{
+    text-align: Center;
+}
+h5{
+    color: var(--first-color);
+}
+.ul2{
+    color:#FFFFFF;
+    padding-left: 215px;
+}
+h6{
+    color: var(--second-color);
+}
+.h1{
+    color: var(--fourth-color);
+}
+ol{
+    color: var(--fourth-color);
+}
+.decorativ-h1{
+    text-align: Center;
+}
+.li-class{
+    color: var(--third-color);
+}
+.li-class:hover{
+    color: var(--hover-color);
+    color: var(--third-color);
+}
+.main-H1{
+    font-family: Raleway;
+}
+.decorativ-ul:hover{
+    color: var(--hover-color);
+}
+button:hover{ 
+    background-color: var(--hover-color);
+    color: var(--fourth-color);
+}
+.li-class:hover{
+    color: var(--first-color);
+    color: var(--hover-color);
+}
+.class-ul{
+    color: var(--fourth-color);
+    padding-left: 215px;
+}
+.h5-class{
+    color: var(--second-color);
+}
+.h4-class{
+    color: var(--third-color);
+}
+
